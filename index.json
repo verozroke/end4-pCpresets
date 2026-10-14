@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "generated": "2026-10-14T19:56:15+00:00",
+  "presets": {
+    "3": {
+      "author": "Blapples",
+      "updated": "2026-10-06T21:09:16+08:00"
+    },
+    "Angel": {
+      "author": "Asia4046",
+      "updated": "2026-10-07T22:56:19+05:30"
+    },
+    "Aston_Martin": {
+      "author": "pctrade",
+      "updated": "2026-10-11T03:16:01Z"
+    },
+    "Astronaut": {
+      "author": "pctrade",
+      "updated": "2026-10-08T23:39:23Z"
+    },
+    "Asuka_V2": {
+      "author": "Asia4046",
+      "updated": "2026-10-11T12:38:27Z"
+    },
+    "Backrooms_Teto": {
+      "author": "LevaxGit",
+      "updated": "2026-10-13T22:48:20-05:00"
+    },
+    "Black": {
+      "author": "pctrade",
+      "updated": "2026-10-12T23:28:40Z"
+    },
+    "Catppuccin": {
+      "author": "pctrade",
+      "updated": "2026-10-11T12:14:18Z"
+    },
+    "Chips": {
+      "author": "pctrade",
+      "updated": "2026-10-08T11:55:42Z"
+    },
+    "Cosmic_Mirror": {
+      "author": "pctrade",
+      "updated": "2026-10-06T05:18:20-05:00"
+    },
+    "Dewdrop": {
+      "author": "pctrade",
+      "updated": "2026-10-06T09:17:08Z"
+    },
+    "Dracula": {
+      "author": "pctrade",
+      "updated": "2026-10-11T18:45:48Z"
+    },
+    "End4_default": {
+      "author": "pctrade",
+      "updated": "2026-10-09T00:25:59Z"
+    },
+    "Everforest": {
+      "author": "pctrade",
+      "updated": "2026-10-11T12:40:18Z"
+    },
+    "Ferrari": {
+      "author": "pctrade",
+      "updated": "2026-10-11T02:47:38Z"
+    },
+    "Grass": {
+      "author": "Asia4046",
+      "updated": "2026-10-08T16:37:54Z"
+    },
+    "Gruvbox": {
+      "author": "Asia4046",
+      "updated": "2026-10-08T21:16:16Z"
+    },
+    "Haimiya-Senpai": {
+      "author": "LevaxGit",
+      "updated": "2026-10-09T04:49:42-05:00"
+    },
+    "InkGirl": {
+      "author": "Devhome2010",
+      "updated": "2026-10-13T12:03:54-05:00"
+    },
+    "Lucy": {
+      "author": "tfhgzeo",
+      "updated": "2026-10-11T21:59:34-05:00"
+    },
+    "Pirates": {
+      "author": "pctrade",
+      "updated": "2026-10-14T08:27:57Z"
+    },
+    "Puppy_Duo": {
+      "author": "Devhome2010",
+      "updated": "2026-10-13T12:12:24-05:00"
+    },
+    "Qingxiao": {
+      "author": "Asia4046",
+      "updated": "2026-10-09T14:04:46Z"
+    },
+    "Rosepine": {
+      "author": "pctrade",
+      "updated": "2026-10-11T05:17:30Z"
+    },
+    "START_LINE": {
+      "author": "Sweebs02",
+      "updated": "2026-10-06T19:06:10+08:00"
+    },
+    "Samurai_Pink": {
+      "author": "Asia4046",
+      "updated": "2026-10-14T11:35:56Z"
+    },
+    "Simple": {
+      "author": "pctrade",
+      "updated": "2026-10-04T06:58:34-05:00"
+    },
+    "The_Dark_Knight": {
+      "author": "pctrade",
+      "updated": "2026-10-08T14:46:35Z"
+    },
+    "Tokyo_Night": {
+      "author": "pctrade",
+      "updated": "2026-10-09T02:31:15Z"
+    },
+    "Trilune_Godess": {
+      "author": "Devhome2010",
+      "updated": "2026-10-13T12:11:23-05:00"
+    },
+    "brown": {
+      "author": "frankerlino",
+      "updated": "2026-10-08T19:31:19-05:00"
+    },
+    "cloud": {
+      "author": "Jasiolib",
+      "updated": "2026-10-10T09:47:52-05:00"
+    },
+    "flashbang": {
+      "author": "gushekkk",
+      "updated": "2026-10-06T17:13:58+05:00"
+    },
+    "green_too": {
+      "author": "Blapples",
+      "updated": "2026-10-06T15:46:51+08:00"
+    },
+    "minimal": {
+      "author": "sharknado55",
+      "updated": "2026-10-06T16:04:56+05:00"
+    },
+    "nord": {
+      "author": "Asia4046",
+      "updated": "2026-10-09T18:46:18Z"
+    },
+    "sakura": {
+      "author": "Asia4046",
+      "updated": "2026-10-08T21:04:37+05:30"
+    },
+    "shadcn": {
+      "author": "sharknado55",
+      "updated": "2026-10-07T17:11:47+05:00"
+    },
+    "w1tness": {
+      "author": "Sahidboyy",
+      "updated": "2026-10-11T13:53:07-05:00"
+    }
+  }
+}
